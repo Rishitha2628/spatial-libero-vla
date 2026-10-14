@@ -1,0 +1,1 @@
+MUJOCO_GPU_RENDERING = False

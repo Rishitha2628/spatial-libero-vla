@@ -1,0 +1,4 @@
+numpy==1.26.4
+torch==2.6.0
+torchvision==0.21.0
+mujoco==3.9.0

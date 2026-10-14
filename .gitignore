@@ -1,0 +1,7 @@
+.venv/
+data/
+outputs/
+logs/
+third_party/
+results/*.mp4
+__pycache__/
